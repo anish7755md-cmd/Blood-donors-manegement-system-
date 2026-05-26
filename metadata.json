@@ -1,0 +1,6 @@
+{
+  "name": "Blood donors manegement system",
+  "description": "Karnataka Blood Donors Management System designed for PBL. Quick emergency search, location filters, secure admin dashboard and real-time donor tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
